@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use ComplianceBot in your research, please cite it."
+authors:
+  - family-names: "NEDJIMI"
+    given-names: "Ayi"
+    email: "contact@ayinedjimi-consultants.fr"
+title: "ComplianceBot: AI-Powered Compliance Assistant"
+version: 1.0.0
+date-released: 2025-02-16
+url: "https://github.com/AYI-NEDJIMI/ComplianceBot"
+license: MIT
